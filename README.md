@@ -71,6 +71,8 @@ Client: Hello
 Client: TCP Socket
 Connection closed
 ```
+<img width="731" height="197" alt="image" src="https://github.com/user-attachments/assets/0087d88f-5880-45cc-93a8-78779d9552e6" />
+
 
 ### Client Side
 ```text
@@ -80,6 +82,8 @@ Enter message: TCP Socket
 Server: TCP Socket
 Enter message: exit
 ```
+<img width="764" height="164" alt="image" src="https://github.com/user-attachments/assets/292f57ce-2c6f-4377-be15-137b8484d878" />
+
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Socket Links was successfully created and executed.
